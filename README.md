@@ -1,4 +1,12 @@
-# JKFLIPFLOP-USING-IF-ELSE
+**NAME: HARISH S**
+
+**REG NO: 249001078** 
+
+**EXP NO 7 JKFLIPFLOP**
+
+
+
+# JKFLIPFLOP
 
 **AIM:** 
 
@@ -38,11 +46,22 @@ The maximum possible groupings of adjacent ones are already shown in the figure.
 
 **PROGRAM**
 
-/* Program for flipflops and verify its truth table in quartus using Verilog programming. Developed by: RegisterNumber:
-*/
+![image](https://github.com/user-attachments/assets/1aed9ff4-855a-497b-b3b9-c7fabcb5dfe8)
+
 
 **RTL LOGIC FOR FLIPFLOPS**
 
+![image](https://github.com/user-attachments/assets/3b1d62b6-1d70-4f48-8d5b-dbb988c08133)
+
+
+
+
 **TIMING DIGRAMS FOR FLIP FLOPS**
 
+![image](https://github.com/user-attachments/assets/1c888bb2-9b8e-420f-833a-331ae1b0bdb6)
+
+
 **RESULTS**
+
+ Designed and verified the implimentation of JK flipflop circuit and truthtable in quartus ii using
+ verilog programming successfully
